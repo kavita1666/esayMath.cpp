@@ -18,7 +18,7 @@ int main()
         cin>>n;
         ll arr[n];
         for(i=0;i<n;i++)
-        {    cin>>arr[i];
+        {    cin>>arr[i];}
 
         for(i=0;i<n-1;i++){
             for(j=i+1;j<n;j++){
